@@ -8,5 +8,6 @@ public class print {
     }
     public static void main(String[] args) {
         fun(0);
+        System.out.println("print");
     }
 }
