@@ -11,6 +11,7 @@ public class binary {
             arr[i] = sc.nextInt();
         }
         int key = sc.nextInt();
+        ;
         int ans = -1;
         int mid = arr.length / 2;
         
